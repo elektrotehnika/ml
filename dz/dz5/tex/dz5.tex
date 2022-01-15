@@ -1,0 +1,52 @@
+
+
+\def\qtr{јесен 2021.}
+\def\due{понедељак, 27. децембар у 23:59}
+\def\psetnum{5}
+
+%%% Change the following flag to toggle between questions or solutions
+\ifdefined\solutions {} \else \def\solutions{1} \fi
+
+\input{macros.tex}
+
+\def\shownotes{0}  %set 1 to show author notes
+\ifnum\shownotes=1
+\newcommand{\authnote}[2]{$\ll$\textsf{\footnotesize #1 notes: #2}$\gg$}
+\else
+\newcommand{\authnote}[2]{}
+\fi
+
+\newcommand{\tnote}[1]{{\color{blue}\authnote{Влада}{#1}}}
+\newcommand{\fk}[1]{{\color{purple}{[FK:#1]}}}
+\newcommand{\notes}[1]{{\color{blue} Note:} \textit{#1} \newline}
+
+
+\begin{document}
+
+\pagestyle{myheadings} \markboth{}{Основи машинског учења --- домаћи задатак \textnumero\psetnum}
+
+\ifnum\solutions=1{
+{\huge\noindent Основи машинског учења, \qtr\\
+домаћи задатак \textnumero\psetnum\;решења}\\\\
+ИМЕ И ПРЕЗИМЕ (\texttt{БРОЈ ИНДЕКСА})
+} \else {\huge
+\noindent Основи машинског учења, \qtr\\
+домаћи задатак \textnumero\psetnum
+} \fi
+
+\ruleskip
+
+{\bf Рок: {\due } на Moodle-у.}
+
+\medskip
+
+\input{00-instructions/00-main}
+
+\begin{enumerate}[wide, labelwidth=!, labelindent=0pt]
+
+\clearpage
+\input{k_means/00-main}
+
+\end{enumerate}
+
+\end{document}

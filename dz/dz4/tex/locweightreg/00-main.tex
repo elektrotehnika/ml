@@ -1,0 +1,35 @@
+\item \points{90} {\bf Локално-тежинска линеарна регресија}
+
+Размотрити проблем линеарне регресије у којој постоји жеља да се ``нагласе'' одређени тренинг примери. Конкретно, претпоставити да треба минимизирати функцију
+\begin{equation*}
+ J(\theta)=\dfrac{1}{2}\sum_{i=1}^m w^{(i)}\left(\theta^Tx^{(i)}-y^{(i)}\right)^2\quad.
+\end{equation*}
+
+На предавањима је објашњено шта се дешава у случају када су сви тежински фактори $w^{(i)}$ међусобно једнаки. У овом задатку, биће уопштене неке идеје за такозвану тежинску поставку.
+
+\begin{enumerate}
+	\input{locweightreg/01-weight-matrix}
+        \ifnum\solutions=1 {
+	  \input{locweightreg/01-weight-matrix-sol}
+        }\fi
+
+	\input{locweightreg/02-normal-weight-equation}
+        \ifnum\solutions=1 {
+	  \input{locweightreg/02-normal-weight-equation-sol}
+        }\fi
+
+	\input{locweightreg/03-normal-distribution-weight-variance}
+        \ifnum\solutions=1 {
+	  \input{locweightreg/03-normal-distribution-weight-variance-sol}
+        }\fi
+
+        \input{locweightreg/04-locally-weighted-linear-regression}
+        \ifnum\solutions=1 {
+	  \input{locweightreg/04-locally-weighted-linear-regression-sol}
+        }\fi
+
+        \input{locweightreg/05-hyperparameter-tau}
+        \ifnum\solutions=1 {
+	  \input{locweightreg/05-hyperparameter-tau-sol}
+        }\fi
+\end{enumerate}
