@@ -47,7 +47,7 @@
 
 [Шаблони](https://github.com/elektrotehnika/ml/tree/master/dz) за домаће задатке.
 
-Прелиминарни [резултати](https://docs.google.com/spreadsheets/d/1hUuJrLaSSm08ctBqFYv7wUdlOe7INqZC1t1jgax2gNI) домаћих задатака.
+Прелиминарни [резултати](https://docs.google.com/spreadsheets/d/1hUuJrLaSSm08ctBqFYv7wUdlOe7INqZC1t1jgax2gNI) свих домаћих задатака. Увид у радове и жалбе на резултате домаћих задатака биће одржане у петак 28. јануар 2022. године од 13:00 у учионици 119.
 
 ## Интернет курсеви
 
@@ -106,6 +106,12 @@
 * [ALSA](https://en.wikipedia.org/wiki/Advanced_Linux_Sound_Architecture)
 * [PulseAudio](https://en.wikipedia.org/wiki/PulseAudio)
 * [Sci-Hub](https://en.wikipedia.org/wiki/Sci-Hub)
+
+Erlang (unit)
+Агнер Краруп Ерланг
+Ерланг (програмски језик)
+Ерлангова расподела
+
 * Било који добар чланак: 30 поена
 * Било који сјајан чланак: 60 поена
 
