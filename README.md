@@ -55,6 +55,10 @@
 * [Huawei ICT Academy: Fundamentals of Machine Learning](https://uniportal.huawei.com/accounts/register.do?method=toRegister) - уписни код: O1KHfx - 5 поена
 * званична сертификација [HCIA-AI](./Huawei/010102001901808059131409.pdf) - 20 поена
 
+[Резултати](https://docs.google.com/spreadsheets/d/17gt6CaDgME1fy_KFWgcYq1hGILI5Ip1G0dk6Pu-mWDs) Huawei ICT Academy: Fundamentals of Machine Learning курса.
+
+Студенти који су заинтересовани за добијање званичног [HCIA-AI](./Huawei/010102001901808059131409.pdf) сертификата, неопходно је да се до 5. фебруара пријаве на формулару који ће ускоро бити додат.
+
 ## Семинарски радови
 
 За случај да више студената ради једну тему, број бодова који добија сваки од студената се дели са бројем студената.
