@@ -6,6 +6,8 @@
 
 ## Обавештења
 
+Студенти који су заинтересовани за добијање званичног [HCIA-AI](./Huawei/010102001901808059131409.pdf) сертификата, неопходно је да се до 8. фебруара у 23:59 пријаве преко [формулара](https://docs.google.com/forms/d/e/1FAIpQLSc0UzAvP99y81weKJE77Cgwo0Tw4PyPsZ1_8XW4kIqe8jtMhg/viewform?usp=sf_link).
+
 Презентације предлога завршних пројеката биће одржане у четвртак 13. јануара 2022. године од 15 часова у учионици 216, као и у уторак 18. јануара 2022. године од 10 часова у учионици 119.
 
 Часови предавања и вежби 29. новембра 2021. године и 10. јануара 2022. године нису одржани због спречености предметног наставника.
@@ -57,7 +59,7 @@
 
 [Резултати](https://docs.google.com/spreadsheets/d/17gt6CaDgME1fy_KFWgcYq1hGILI5Ip1G0dk6Pu-mWDs) Huawei ICT Academy: Fundamentals of Machine Learning курса.
 
-Студенти који су заинтересовани за добијање званичног [HCIA-AI](./Huawei/010102001901808059131409.pdf) сертификата, неопходно је да се до 5. фебруара пријаве на формулару који ће ускоро бити додат.
+Студенти који су заинтересовани за добијање званичног [HCIA-AI](./Huawei/010102001901808059131409.pdf) сертификата, неопходно је да се до 8. фебруара у 23:59 пријаве преко [формулара](https://docs.google.com/forms/d/e/1FAIpQLSc0UzAvP99y81weKJE77Cgwo0Tw4PyPsZ1_8XW4kIqe8jtMhg/viewform?usp=sf_link).
 
 ## Семинарски радови
 
@@ -110,12 +112,11 @@
 * [ALSA](https://en.wikipedia.org/wiki/Advanced_Linux_Sound_Architecture)
 * [PulseAudio](https://en.wikipedia.org/wiki/PulseAudio)
 * [Sci-Hub](https://en.wikipedia.org/wiki/Sci-Hub)
-
+* [Систем на чипу](https://en.wikipedia.org/wiki/System_on_a_chip)
 Erlang (unit)
 Агнер Краруп Ерланг
 Ерланг (програмски језик)
 Ерлангова расподела
-
 * Било који добар чланак: 30 поена
 * Било који сјајан чланак: 60 поена
 
