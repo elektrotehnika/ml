@@ -6,11 +6,9 @@
 
 ## Обавештења
 
-Одбрана пројеката и закључење оцена за студенте који су испит из Дигиталне електронике пријавили у јануарском испитном року, биће одржана у четвртак 17. фебруара 2022. године у 11:00 у сали 119.
+Одбрана пројеката и закључење оцена за студенте који су испит из Основа машинског и дубоког учења пријавили у јунском испитном року биће одржана у среду 15. јуна 2022. године у 11:45 у учионици А-II-23.
 
-Одбрана пројеката и закључење оцена за студенте који су испит из Основа машинског и дубоког учења пријавили у фебруарском испитном року биће одржана у четвртак 17. фебруара 2022. године у 15:15 у учионици А-II-23.
-
-Одбрана пројеката и закључење оцена за студенте који су испит из Дигиталне електронике пријавили у фебруарском испитном року биће одржана у петак 18. фебруара 2022. године у 8:00 у учионици А-II-23.
+Одбрана пројеката и закључење оцена за студенте који су испит из Дигиталне електронике пријавили у јунском испитном року биће одржана у среду 15. јуна 2022. године у 12:15 у учионици А-II-23.
 
 Студенти који су заинтересовани за добијање званичног [HCIA-AI](./Huawei/010102001901808059131409.pdf) сертификата, неопходно је да се до 8. фебруара у 23:59 пријаве преко [формулара](https://docs.google.com/forms/d/e/1FAIpQLSc0UzAvP99y81weKJE77Cgwo0Tw4PyPsZ1_8XW4kIqe8jtMhg/viewform?usp=sf_link).
 
@@ -119,6 +117,16 @@
 * [PulseAudio](https://en.wikipedia.org/wiki/PulseAudio)
 * [Sci-Hub](https://en.wikipedia.org/wiki/Sci-Hub)
 * [Систем на чипу](https://en.wikipedia.org/wiki/System_on_a_chip)
+* [MIT OpenCourseWare](https://en.wikipedia.org/wiki/MIT_OpenCourseWare)
+* [ReLU](https://en.wikipedia.org/wiki/Rectifier_(neural_networks))
+* [Google Public DNS](https://en.wikipedia.org/wiki/Google_Public_DNS)
+* [Deepfake](https://en.wikipedia.org/wiki/Deepfake)
+* [Генеративно-супарничке мреже](https://en.wikipedia.org/wiki/Generative_adversarial_network)
+* [StyleGAN](https://en.wikipedia.org/wiki/StyleGAN)
+* [AlexNet](https://en.wikipedia.org/wiki/AlexNet)
+* [ImageNet](https://en.wikipedia.org/wiki/ImageNet)
+* [Жакаров коефицијент](https://en.wikipedia.org/wiki/Jaccard_index)
+https://en.wikipedia.org/wiki/Jenkins_(software)
 Erlang (unit)
 Агнер Краруп Ерланг
 Ерланг (програмски језик)
