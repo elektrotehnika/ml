@@ -1,20 +1,18 @@
 # Основи машинског учења
 
-Зимски семестар школске 2021./2022. године
+Зимски семестар школске 2023./2024. године
 * наставник: Владимир М. Миловановић
-* сарадник: Никола Радовановић
+* сарадник/демонстратор: ???
 
 ## Обавештења
 
-Одбрана пројеката и закључење оцена за студенте који су испит из Дигиталне електронике пријавили у септембарском испитном року биће одржана у четвртак 8. септембра 2022. године у 18:30 у учионици Д-66, уместо у 15:30 како је првобитно заказано, на молбу колега који полажу испит из Система аутоматског управљања.
+Настава из основа машинског учења у школској 2023/24. години почиње у понедељак 25. септембра 2023. године.
 
-Одбрана пројеката и закључење оцена за студенте који су испит из Основа машинског и дубоког учења пријавили у септембарском испитном року биће одржана у четвртак 8. септембра 2022. године у 18:00 у учионици Д-66, уместо у 15:00 како је првобитно заказано, на молбу колега који полажу испит из Система аутоматског управљања.
+<!--Студенти који су заинтересовани за добијање званичног [HCIA-AI](./Huawei/010102001901808059131409.pdf) сертификата, неопходно је да се до 8. фебруара у 23:59 пријаве преко [формулара](https://docs.google.com/forms/d/e/1FAIpQLSc0UzAvP99y81weKJE77Cgwo0Tw4PyPsZ1_8XW4kIqe8jtMhg/viewform?usp=sf_link).-->
 
-Студенти који су заинтересовани за добијање званичног [HCIA-AI](./Huawei/010102001901808059131409.pdf) сертификата, неопходно је да се до 8. фебруара у 23:59 пријаве преко [формулара](https://docs.google.com/forms/d/e/1FAIpQLSc0UzAvP99y81weKJE77Cgwo0Tw4PyPsZ1_8XW4kIqe8jtMhg/viewform?usp=sf_link).
+## Настава
 
-Презентације предлога завршних пројеката одржане су у четвртак 13. јануара 2022. године од 15 часова у учионици 216, као и у уторак 18. јануара 2022. године од 10 часова у учионици 119.
-
-Часови предавања и вежби 29. новембра 2021. године и 10. јануара 2022. године нису одржани због спречености предметног наставника.
+* предавања и вежбе (В. Миловановић): понедељком од 14:15 до 19:00 у сали 216
 
 ## Настава
 
@@ -42,6 +40,7 @@
 
 Решења домаћих задатака шаљу се преко факултетског [Moodle](http://moodle.fink.rs)-а при чему обавезно пре назначеног рока.
 
+<!--
 * [први домаћи задатак](./dz/dz1.pdf)
 * [други домаћи задатак](./dz/dz2.pdf)
 * [трећи домаћи задатак](./dz/dz3.pdf)
@@ -50,91 +49,36 @@
 * [шести домаћи задатак](./dz/dz6.pdf)
 * [седми домаћи задатак](./dz/dz7.pdf)
 * [домаћи задатак - Титаник](./dz/titanik.pdf)
+-->
 
-[Шаблони](https://github.com/elektrotehnika/ml/tree/master/dz) за домаће задатке.
+<!--[Шаблони](https://github.com/elektrotehnika/ml/tree/master/dz) за домаће задатке.-->
 
-Прелиминарни [резултати](https://docs.google.com/spreadsheets/d/1hUuJrLaSSm08ctBqFYv7wUdlOe7INqZC1t1jgax2gNI) свих домаћих задатака. Увид у радове и жалбе на резултате домаћих задатака биће одржане у петак 28. јануар 2022. године од 13:00 у учионици 119.
+<!--Коначни [резултати](https://docs.google.com/spreadsheets/d/1hUuJrLaSSm08ctBqFYv7wUdlOe7INqZC1t1jgax2gNI) свих домаћих задатака.-->
+
+## Корисне видео лекције
+
+На енглеском:
+* Stanford: [CS229 - јесен 2018.](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)
+* Stanford: [CS229 - лето 2019.](https://www.youtube.com/playlist?list=PLoROMvodv4rNH7qL6-efu_q2_bPuy0adh)
+* Stanford: [CS229 - пролеће 2022.](https://www.youtube.com/playlist?list=PLoROMvodv4rNyWOpJg_Yh4NSqI4Z4vOYy)
 
 ## Интернет курсеви
 
-* [Machine Learning by Stanford University \| Coursera](https://www.coursera.org/learn/machine-learning) - 10 поена
-* [Huawei ICT Academy: Fundamentals of Machine Learning](https://uniportal.huawei.com/accounts/register.do?method=toRegister) - уписни код: O1KHfx - 5 поена
-* званична сертификација [HCIA-AI](./Huawei/010102001901808059131409.pdf) - 20 поена
+* [Huawei ICT Academy: Machine Learning Fundamentals](https://uniportal.huawei.com/accounts/register.do?method=toRegister) - уписни код: nimMkC - 5 поена
+* званична сертификација [HCIA-AI](./Huawei/010102001901808059131409.pdf) - 10-20 поена?
+* [Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction)
+  * [Supervised Machine Learning: Regression and Classification ](https://www.coursera.org/learn/machine-learning)
+  * [Advanced Learning Algorithms](https://www.coursera.org/learn/advanced-learning-algorithms)
+  * [Unsupervised Learning, Recommenders, Reinforcement Learning](https://www.coursera.org/learn/unsupervised-learning-recommenders-reinforcement-learning)
+* [Machine Learning by Stanford University \| Coursera](https://www.coursera.org/learn/machine-learning)
 
-[Резултати](https://docs.google.com/spreadsheets/d/17gt6CaDgME1fy_KFWgcYq1hGILI5Ip1G0dk6Pu-mWDs) Huawei ICT Academy: Fundamentals of Machine Learning курса.
+<!--[Резултати](https://docs.google.com/spreadsheets/d/17gt6CaDgME1fy_KFWgcYq1hGILI5Ip1G0dk6Pu-mWDs) Huawei ICT Academy: Fundamentals of Machine Learning курса.-->
 
-Студенти који су заинтересовани за добијање званичног [HCIA-AI](./Huawei/010102001901808059131409.pdf) сертификата, неопходно је да се до 8. фебруара у 23:59 пријаве преко [формулара](https://docs.google.com/forms/d/e/1FAIpQLSc0UzAvP99y81weKJE77Cgwo0Tw4PyPsZ1_8XW4kIqe8jtMhg/viewform?usp=sf_link).
+<!--Студенти који су заинтересовани за добијање званичног [HCIA-AI](./Huawei/010102001901808059131409.pdf) сертификата, неопходно је да се до 8. фебруара у 23:59 пријаве преко [формулара](https://docs.google.com/forms/d/e/1FAIpQLSc0UzAvP99y81weKJE77Cgwo0Tw4PyPsZ1_8XW4kIqe8jtMhg/viewform?usp=sf_link).-->
 
 ## Семинарски радови
 
-За случај да више студената ради једну тему, број бодова који добија сваки од студената се дели са бројем студената.
-
-Неке од потенцијалних тема за семинарске радове:
-* [Граница одлуке](https://en.wikipedia.org/wiki/Decision_boundary) - урађено
-* [Хесијан функције](https://en.wikipedia.org/wiki/Hessian_matrix) - урађено
-* [Дијаграм расејања](https://en.wikipedia.org/wiki/Scatter_plot) - урађено
-* [Поасонова регресија](https://en.wikipedia.org/wiki/Poisson_regression) - урађено
-* [Бернулијева расподела](https://en.wikipedia.org/wiki/Bernoulli_distribution) - урађено
-* [Траг (линеарна алгебра)](https://en.wikipedia.org/wiki/Trace_(linear_algebra)) - урађено
-* [Метода потпорних вектора](https://en.wikipedia.org/wiki/Support-vector_machine) - урађено
-* [Функције губитака за класификацију](https://en.wikipedia.org/wiki/Loss_functions_for_classification) - урађено
-* [Бустинг](https://en.wikipedia.org/wiki/Boosting_(machine_learning)) - рађено
-* [Коктел журка](https://en.wikipedia.org/wiki/Cocktail_party) - рађено
-* [Бинарна слика](https://en.wikipedia.org/wiki/Binary_image) - рађено
-* [8-битна боја](https://en.wikipedia.org/wiki/8-bit_color) - рађено
-* [Унакрсна провера](https://en.wikipedia.org/wiki/Cross-validation_(statistics))
-* [Дефинитна матрица](https://en.wikipedia.org/wiki/Definite_matrix)
-* [Функција губитака](https://en.wikipedia.org/wiki/Loss_function)
-* [Логистичка регресија](https://en.wikipedia.org/wiki/Logistic_regression)
-* [Уопштени линеарни модел](https://en.wikipedia.org/wiki/Generalized_linear_model)
-* [Функција веродостојности](https://en.wikipedia.org/wiki/Likelihood_function)
-* [Категоријска расподела](https://en.wikipedia.org/wiki/Categorical_distribution)
-* [Експоненцијална породица](https://en.wikipedia.org/wiki/Exponential_family)
-* [Случајна шума](https://en.wikipedia.org/wiki/Random_forest)
-* [Бутстреп агрегација](https://en.wikipedia.org/wiki/Bootstrap_aggregating)
-* [Ансамбл метода (машинско учење)](https://en.wikipedia.org/wiki/Ensemble_learning)
-* [Феномен коктел журке](https://en.wikipedia.org/wiki/Cocktail_party_effect)
-* [Лапласова расподела](https://en.wikipedia.org/wiki/Laplace_distribution)
-* [Логистичка расподела](https://en.wikipedia.org/wiki/Logistic_distribution)
-* [Анализа независних компоненти](https://en.wikipedia.org/wiki/Independent_component_analysis)
-* [Марковљев поступак одлучивања](https://en.wikipedia.org/wiki/Markov_decision_process)
-* [Учење подстицајем](https://en.wikipedia.org/wiki/Reinforcement_learning)
-* [Дубоко учење подстицајем](https://en.wikipedia.org/wiki/Deep_reinforcement_learning)
-* [Q-учење](https://en.wikipedia.org/wiki/Q-learning)
-* [Нијансе сиве](https://en.wikipedia.org/wiki/Grayscale)
-* [Дубина боје](https://en.wikipedia.org/wiki/Color_depth)
-* [TIFF](https://en.wikipedia.org/wiki/TIFF)
-* [Хуманоидни робот](https://en.wikipedia.org/wiki/Humanoid_robot)
-* [Дупло клатно](https://en.wikipedia.org/wiki/Double_pendulum)
-* [Обрнуто клатно](https://en.wikipedia.org/wiki/Inverted_pendulum)
-* [Дупло обрнуто клатно](https://en.wikipedia.org/wiki/Double_inverted_pendulum)
-* [NetworkManager](https://en.wikipedia.org/wiki/NetworkManager)
-* [wpa_supplicant](https://en.wikipedia.org/wiki/Wpa_supplicant)
-* [OpenRC](https://en.wikipedia.org/wiki/OpenRC)
-* [systemd](https://en.wikipedia.org/wiki/Systemd)
-* [udev](https://en.wikipedia.org/wiki/Udev)
-* [ALSA](https://en.wikipedia.org/wiki/Advanced_Linux_Sound_Architecture)
-* [PulseAudio](https://en.wikipedia.org/wiki/PulseAudio)
-* [Sci-Hub](https://en.wikipedia.org/wiki/Sci-Hub)
-* [Систем на чипу](https://en.wikipedia.org/wiki/System_on_a_chip)
-* [MIT OpenCourseWare](https://en.wikipedia.org/wiki/MIT_OpenCourseWare)
-* [ReLU](https://en.wikipedia.org/wiki/Rectifier_(neural_networks))
-* [Google Public DNS](https://en.wikipedia.org/wiki/Google_Public_DNS)
-* [Deepfake](https://en.wikipedia.org/wiki/Deepfake)
-* [Генеративно-супарничке мреже](https://en.wikipedia.org/wiki/Generative_adversarial_network)
-* [StyleGAN](https://en.wikipedia.org/wiki/StyleGAN)
-* [AlexNet](https://en.wikipedia.org/wiki/AlexNet)
-* [ImageNet](https://en.wikipedia.org/wiki/ImageNet)
-* [Жакаров коефицијент](https://en.wikipedia.org/wiki/Jaccard_index)
-https://en.wikipedia.org/wiki/Jenkins_(software)
-https://en.wikipedia.org/wiki/GPT-2
-Erlang (unit)
-Агнер Краруп Ерланг
-Ерланг (програмски језик)
-Ерлангова расподела
-Квадрокоптер
-* Било који добар чланак: 30 поена
-* Било који сјајан чланак: 60 поена
+У оквиру овог предмета бодују се семинарски радови као бонус поени. За више информација можете погледати [страницу](https://elektrotehnika.github.io/seminarski) о семинарским радовима.
 
 ## Оцењивање
 
@@ -144,8 +88,8 @@ Erlang (unit)
 ### Предиспитне обавезе
 
 Предиспитне обавезе се састоје од:
-* домаћих задатака - укупно 50 поена
-* [интернет курса](https://www.coursera.org/learn/machine-learning) - 10 поена
+* домаћих задатака - укупно 60 поена
+<!--* [интернет курса](https://www.coursera.org/learn/machine-learning) - 10 поена-->
 * предлога завршног пројекта (презентација од 5 до 10 минута) - 10 поена
 * евентуалних додатних поена (семинарски радови, Huawei/HCIA-AI, итд.)
 
