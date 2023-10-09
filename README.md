@@ -21,7 +21,8 @@
 * Математичка предспрема:
   * [кратак преглед линеарне алгебре](./notes/ML-linear_algebra_review.pdf) и [cs229 слајдови](https://cs229.stanford.edu/lectures-spring2023/cs229-linear_algebra_review_slides.pdf)
   * [кратак преглед теорије вероватноће](./notes/ML-probability_review.pdf) и [cs229 слајдови](https://cs229.stanford.edu/lectures-spring2023/cs229-probability_review_slides.pdf)
-* Програмерска предспрема
+* Програмерска предспрема:
+  * кратак преглед програмског језика [Python](https://www.python.org) и библиотека [Numpy](https://numpy.org) и [matplotlib](https://matplotlib.org): [cs229 слајдови](https://cs229.stanford.edu/lectures-spring2023/cs229-python_review_slides.pdf) и [cs229 материјали](https://cs229.stanford.edu/lectures-spring2023/cs229-python_review_materials.zip)
 * [CS229L2 - пролеће 2023.](https://drive.google.com/file/d/10L-uvv2y6VI0Bgtv3-egqnR4JGcBTrlQ)
 * [CS229L3 - пролеће 2023.](https://drive.google.com/file/d/1Q01HWCS1tsffSCwjwrkzOvMlJRw-BGib)
 * [CS229L4 - пролеће 2023.](https://drive.google.com/file/d/1QdQcuHMMjWXLW6v75OJA993Dk1psw_eF)
