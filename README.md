@@ -55,11 +55,12 @@
 
 Решења домаћих задатака шаљу се преко факултетског [Moodle](http://moodle.fink.rs)-а при чему обавезно пре назначеног рока.
 
-<!--
 * [први домаћи задатак](./dz/dz1.pdf)
 * [други домаћи задатак](./dz/dz2.pdf)
 * [трећи домаћи задатак](./dz/dz3.pdf)
 * [четврти домаћи задатак](./dz/dz4.pdf)
+
+<!--
 * [пети домаћи задатак](./dz/dz5.pdf)
 * [шести домаћи задатак](./dz/dz6.pdf)
 * [седми домаћи задатак](./dz/dz7.pdf)
@@ -85,6 +86,12 @@
 * Stanford: [CS229 - јесен 2018.](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)
 * Stanford: [CS229 - лето 2019.](https://www.youtube.com/playlist?list=PLoROMvodv4rNH7qL6-efu_q2_bPuy0adh)
 * Stanford: [CS229 - пролеће 2022.](https://www.youtube.com/playlist?list=PLoROMvodv4rNyWOpJg_Yh4NSqI4Z4vOYy)
+
+#### Математичка предспрема за машинско учење
+
+На енглеском:
+* Imperial College London: [Mathematics for Machine Learning - Linear Algebra](https://www.youtube.com/playlist?list=PLiiljHvN6z1_o1ztXTKWPrShrMrBLo5P3)
+* Imperial College London: [Mathematics for Machine Learning - Multivariate Calculus](https://www.youtube.com/playlist?list=PLiiljHvN6z193BBzS0Ln8NnqQmzimTW23)
 
 ## Интернет курсеви
 
