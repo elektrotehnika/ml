@@ -30,6 +30,7 @@
 * [CS229L2 - пролеће 2023.](https://drive.google.com/file/d/10L-uvv2y6VI0Bgtv3-egqnR4JGcBTrlQ)
 * [CS229L3 - пролеће 2023.](https://drive.google.com/file/d/1Q01HWCS1tsffSCwjwrkzOvMlJRw-BGib)
 * [CS229L4 - пролеће 2023.](https://drive.google.com/file/d/1QdQcuHMMjWXLW6v75OJA993Dk1psw_eF)
+* CS229L8 - пролеће 2022. - [Draft](https://drive.google.com/file/d/1G7QXY2D1jKU6T91mBJJ63izSdSnEU7jQ) / [Template](https://drive.google.com/file/d/1v_xxyCppu4GgwCUCqy20XCqLTg1erB2Q) / [Notes](https://drive.google.com/file/d/1TXDKzA9_JQoGr30sTAQxFdyee-XTO4Ma)
 
 <details markdown='block'>
 <summary>Белешке</summary>
