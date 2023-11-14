@@ -82,8 +82,9 @@
 Скрипта на српском језику:
 * [Младен Николић](http://poincare.matf.bg.ac.rs/~mladen.nikolic) и Анђелка Зечевић, **[Машинско учење](http://ml.matf.bg.ac.rs/readings/ml.pdf)**, [Математички факултет у Београду](http://www.matf.bg.ac.rs), 2019.
 
-Скрипта на енглеском језику:
+Скрипте на енглеском језику:
 * [Andrew Ng](https://en.wikipedia.org/wiki/Andrew_Ng) и [Tengyu Ma](https://ai.stanford.edu/~tengyuma), **[CS229: Machine Learning - Lecture Notes](https://cs229.stanford.edu/main_notes.pdf)**, Stanford University, 2023.
+* **[MIT 6.390: Introduction to Machine Learning - Lecture Notes](https://introml.mit.edu/_static/fall22/LectureNotes/6_390_lecture_notes_fall2022.pdf)**, 2022.
 
 Уџбеник на српском језику:
 * [Предраг Јаничић](http://poincare.matf.bg.ac.rs/~janicic) и [Младен Николић](http://poincare.matf.bg.ac.rs/~mladen.nikolic), **[Вештачка интелигенција](http://poincare.matf.bg.ac.rs/~predrag.janicic/books/VI_A4.pdf)**, Математички факултет у Београду, 2023.
@@ -95,6 +96,7 @@
 * Stanford: [CS229 - јесен 2018.](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)
 * Stanford: [CS229 - лето 2019.](https://www.youtube.com/playlist?list=PLoROMvodv4rNH7qL6-efu_q2_bPuy0adh)
 * Stanford: [CS229 - пролеће 2022.](https://www.youtube.com/playlist?list=PLoROMvodv4rNyWOpJg_Yh4NSqI4Z4vOYy)
+* MIT: [6.036 - јесен 2020.](https://www.youtube.com/playlist?list=PLxC_ffO4q_rW0bqQB80_vcQB09HOA3ClV)
 
 #### Математичка предспрема за машинско учење
 
@@ -112,6 +114,7 @@
   * [Advanced Learning Algorithms](https://www.coursera.org/learn/advanced-learning-algorithms)
   * [Unsupervised Learning, Recommenders, Reinforcement Learning](https://www.coursera.org/learn/unsupervised-learning-recommenders-reinforcement-learning)
 * [Machine Learning by Stanford University \| Coursera](https://www.coursera.org/learn/machine-learning)
+* [MIT Open Learning Library](https://openlearning.mit.edu) - [Introduction to Machine Learning 6.036](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+6.036+1T2019/about)
 
 ### Математичка предспрема за машинско учење
 
