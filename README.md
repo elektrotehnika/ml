@@ -31,6 +31,9 @@
 * [CS229L3 - пролеће 2023.](https://drive.google.com/file/d/1Q01HWCS1tsffSCwjwrkzOvMlJRw-BGib)
 * [CS229L4 - пролеће 2023.](https://drive.google.com/file/d/1QdQcuHMMjWXLW6v75OJA993Dk1psw_eF)
 * CS229L8 - пролеће 2022. - [Draft](https://drive.google.com/file/d/1G7QXY2D1jKU6T91mBJJ63izSdSnEU7jQ) / [Template](https://drive.google.com/file/d/1v_xxyCppu4GgwCUCqy20XCqLTg1erB2Q) / [Notes](https://drive.google.com/file/d/1TXDKzA9_JQoGr30sTAQxFdyee-XTO4Ma)
+* [CS229L12 - пролеће 2023.](https://drive.google.com/file/d/1FTJkMnDuWNtSTivcqULYeHu-y6cdqYKD)
+* [CS229L13 - пролеће 2023.](https://drive.google.com/file/d/1s7JH8Rx4XmviDl3ficA6ST00IjvmEkVS)
+* [CS229L14 - пролеће 2023.](https://drive.google.com/file/d/1qAMz6gYlN2WvJWHyTAi78Q_gIsCJ8OhO)
 
 <details markdown='block'>
 <summary>Белешке</summary>
@@ -81,6 +84,9 @@
 
 Скрипта на енглеском језику:
 * [Andrew Ng](https://en.wikipedia.org/wiki/Andrew_Ng) и [Tengyu Ma](https://ai.stanford.edu/~tengyuma), **[CS229: Machine Learning - Lecture Notes](https://cs229.stanford.edu/main_notes.pdf)**, Stanford University, 2023.
+
+Уџбеник на српском језику:
+* [Предраг Јаничић](http://poincare.matf.bg.ac.rs/~janicic) и [Младен Николић](http://poincare.matf.bg.ac.rs/~mladen.nikolic), **[Вештачка интелигенција](http://poincare.matf.bg.ac.rs/~predrag.janicic/books/VI_A4.pdf)**, Математички факултет у Београду, 2023.
 
 ### Корисне видео лекције
 
