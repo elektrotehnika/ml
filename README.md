@@ -6,11 +6,9 @@
 
 ## Обавештења
 
+Предавања и вежбе из Основа машинског учења у понедељак 4. децембра 2023. године неће бити одржани због одсуства предметног наставника.
+
 Настава из Основа машинског учења у школској 2023/24. години почела је у понедељак 25. септембра 2023. године.
-
-Вежбе из Основа машинског учења ће бити одржане у понедељак, 30. октобра 2023. године у сали 216, са почетком у 16 часова.
-
-<!--Вежбе из Основа машинског учења ће бити одржане у четвртак, 19. октобра 2023. године у сали Д66, са почетком у 12 часова.-->
 
 <!--Студенти који су заинтересовани за добијање званичног [HCIA-AI](./Huawei/010102001901808059131409.pdf) сертификата, неопходно је да се до 8. фебруара у 23:59 пријаве преко [формулара](https://docs.google.com/forms/d/e/1FAIpQLSc0UzAvP99y81weKJE77Cgwo0Tw4PyPsZ1_8XW4kIqe8jtMhg/viewform?usp=sf_link).-->
 
@@ -31,6 +29,7 @@
 * [CS229L3 - пролеће 2023.](https://drive.google.com/file/d/1Q01HWCS1tsffSCwjwrkzOvMlJRw-BGib)
 * [CS229L4 - пролеће 2023.](https://drive.google.com/file/d/1QdQcuHMMjWXLW6v75OJA993Dk1psw_eF)
 * CS229L8 - пролеће 2022. - [Draft](https://drive.google.com/file/d/1G7QXY2D1jKU6T91mBJJ63izSdSnEU7jQ) / [Template](https://drive.google.com/file/d/1v_xxyCppu4GgwCUCqy20XCqLTg1erB2Q) / [Notes](https://drive.google.com/file/d/1TXDKzA9_JQoGr30sTAQxFdyee-XTO4Ma)
+* CS229L11 - [пролеће 2022.](https://drive.google.com/file/d/1OnelHBtxaxekRIW6OfHYosOFQIDXWJkY) / [пролеће 2023.](https://drive.google.com/file/d/1RCZACBbTFZUYE_5PWeHr7eadJDjaQmCT)
 * [CS229L12 - пролеће 2023.](https://drive.google.com/file/d/1FTJkMnDuWNtSTivcqULYeHu-y6cdqYKD)
 * [CS229L13 - пролеће 2023.](https://drive.google.com/file/d/1s7JH8Rx4XmviDl3ficA6ST00IjvmEkVS)
 * [CS229L14 - пролеће 2023.](https://drive.google.com/file/d/1qAMz6gYlN2WvJWHyTAi78Q_gIsCJ8OhO)
