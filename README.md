@@ -102,6 +102,7 @@
 На енглеском:
 * Imperial College London: [Mathematics for Machine Learning - Linear Algebra](https://www.youtube.com/playlist?list=PLiiljHvN6z1_o1ztXTKWPrShrMrBLo5P3)
 * Imperial College London: [Mathematics for Machine Learning - Multivariate Calculus](https://www.youtube.com/playlist?list=PLiiljHvN6z193BBzS0Ln8NnqQmzimTW23)
+* [Stanford CS109](https://web.stanford.edu/class/cs109): [Probability for Computer Scientists - јесен 2022.](https://www.youtube.com/playlist?list=PLoROMvodv4rOpr_A7B9SriE_iZmkanvUg)
 
 ## Интернет курсеви
 
