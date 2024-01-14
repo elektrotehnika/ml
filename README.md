@@ -6,7 +6,7 @@
 
 ## Обавештења
 
-[Прелиминрани резултати](https://docs.google.com/spreadsheets/d/1Px0T6lmYpvEGkkjWExraIYV5swQIhCCZoB0SE1HPMkk/edit?usp=sharing) домаћих задатака Титаник и цена кућа.
+[Прелиминарни резултати](https://docs.google.com/spreadsheets/d/1Px0T6lmYpvEGkkjWExraIYV5swQIhCCZoB0SE1HPMkk/edit?usp=sharing) домаћих задатака Титаник и Цена кућа.
 Жалбе на резултате домаћих задатака се шаљу на ml.fink2023@gmail.com до среде 17.1.2023. године.
 
 Студентски предлози пројеката из предмета Основи машинског учења биће одржани највероватније у четвртак 25. јануара 2024. године.
