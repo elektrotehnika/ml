@@ -110,6 +110,7 @@
 На енглеском:
 * Imperial College London: [Mathematics for Machine Learning - Linear Algebra](https://www.youtube.com/playlist?list=PLiiljHvN6z1_o1ztXTKWPrShrMrBLo5P3)
 * Imperial College London: [Mathematics for Machine Learning - Multivariate Calculus](https://www.youtube.com/playlist?list=PLiiljHvN6z193BBzS0Ln8NnqQmzimTW23)
+* [Harvard: Stat 110](https://projects.iq.harvard.edu/stat110) - [Statistics 110: Probability](https://www.youtube.com/playlist?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo)
 * [Stanford CS109](https://web.stanford.edu/class/cs109): [Probability for Computer Scientists - јесен 2022.](https://www.youtube.com/playlist?list=PLoROMvodv4rOpr_A7B9SriE_iZmkanvUg)
 
 ## Интернет курсеви
@@ -135,6 +136,7 @@
   * [Mathematics for Machine Learning: Linear Algebra](https://www.coursera.org/learn/linear-algebra-machine-learning)
   * [Mathematics for Machine Learning: Multivariate Calculus](https://www.coursera.org/learn/multivariate-calculus-machine-learning)
   * [Mathematics for Machine Learning: PCA](https://www.coursera.org/learn/pca-machine-learning)
+* [HarvardX - STAT110x: Introduction to Probability](https://www.edx.org/learn/probability/harvard-university-introduction-to-probability)
 
 <!--[Резултати](https://docs.google.com/spreadsheets/d/17gt6CaDgME1fy_KFWgcYq1hGILI5Ip1G0dk6Pu-mWDs) Huawei ICT Academy: Fundamentals of Machine Learning курса.-->
 
