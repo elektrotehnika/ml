@@ -95,6 +95,9 @@
 Уџбеник на српском језику:
 * [Предраг Јаничић](http://poincare.matf.bg.ac.rs/~janicic) и [Младен Николић](http://poincare.matf.bg.ac.rs/~mladen.nikolic), **[Вештачка интелигенција](http://poincare.matf.bg.ac.rs/~predrag.janicic/books/VI_A4.pdf)**, Математички факултет у Београду, 2023.
 
+Уџбеник на енглеском језику за припрему за добијање HCIA-AI сертификата:
+* [Huawei Technologies](https://e.huawei.com/en/talent/learning/#/booklist), [Artificial Intelligence Technology](https://link.springer.com/book/10.1007/978-981-19-2879-6), Springer, 2023.
+
 ### Корисне видео лекције
 
 На енглеском:
