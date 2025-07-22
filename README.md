@@ -105,6 +105,7 @@
 * Stanford: [CS229 - јесен 2018.](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)
 * Stanford: [CS229 - лето 2019.](https://www.youtube.com/playlist?list=PLoROMvodv4rNH7qL6-efu_q2_bPuy0adh)
 * Stanford: [CS229 - пролеће 2022.](https://www.youtube.com/playlist?list=PLoROMvodv4rNyWOpJg_Yh4NSqI4Z4vOYy)
+* Stanford: CS229 - лето 2024. гостујуће предавање: [Introduction to Building LLMs](https://www.youtube.com/watch?v=9vM4p9NN0Ts)
 * MIT: [6.036 - јесен 2020.](https://www.youtube.com/playlist?list=PLxC_ffO4q_rW0bqQB80_vcQB09HOA3ClV)
 
 #### Математичка предспрема за машинско учење
