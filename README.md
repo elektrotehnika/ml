@@ -109,7 +109,7 @@
 ## Интернет курсеви
 
 На енглеском:
-* [Huawei ICT Academy: Machine and Deep Learning Fundamentals](https://uniportal.huawei.com/accounts/register.do?method=toRegister) - уписни код: k5PZ8X - 5 поена
+* [Huawei ICT Academy: Machine and Deep Learning Fundamentals](https://uniportal.huawei.com/accounts/register.do?method=toRegister) - [уписни код](https://e.huawei.com/en/talent/#/course/course-details?applicationId=1759326243776&courseType=ICT&invitedCode=p2BpFk&urlForm=myclass): p2BpFk - 5 поена
 * званична сертификација [HCIA-AI](./Huawei/010102001901808059131409.pdf)
 * [DeepLearning.AI](https://www.deeplearning.ai) - [Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction) | [Coursera](https://www.coursera.org)
   * [Supervised Machine Learning: Regression and Classification](https://www.coursera.org/learn/machine-learning)
